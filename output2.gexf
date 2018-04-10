@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.gephi.org/gexf/1.2draft" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2018-04-10">
+    <creator>Gephi.org</creator>
+    <description>A Web network</description>
+  </meta>
+  <graph defaultedgetype="directed" label="A Web network" mode="static" timeformat="double">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="id" type="string"/>
+      <attribute id="modularity_class" title="Modularity Class" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="0" label="medium.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+      </node>
+      <node id="1" label="github.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"/>
+        </attvalues>
+      </node>
+      <node id="10" label="www.theverge.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+      </node>
+      <node id="11" label="www.bbc.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+      </node>
+      <node id="12" label="youtu.be">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+      </node>
+      <node id="13" label="www.cnbc.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+      </node>
+      <node id="14" label="www.iafrikan.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+      </node>
+      <node id="15" label="www.theatlantic.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+      </node>
+      <node id="16" label="en.wikipedia.org">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+      </node>
+      <node id="17" label="www.wsj.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+      </node>
+      <node id="18" label="www.wired.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+      </node>
+      <node id="2" label="www.youtube.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+      </node>
+      <node id="3" label="www.nytimes.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+      </node>
+      <node id="4" label="www.bloomberg.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+      </node>
+      <node id="5" label="www.theguardian.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+      </node>
+      <node id="6" label="arstechnica.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+      </node>
+      <node id="7" label="twitter.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+      </node>
+      <node id="8" label="hackernoon.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+      </node>
+      <node id="9" label="techcrunch.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges/>
+  </graph>
+</gexf>
